@@ -1,0 +1,3 @@
+[submodule "image_child"]
+	path = image_child
+	url = git@github.com:youske-miyakoshi-geeplus/testing_submodules_child.git
